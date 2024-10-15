@@ -6,10 +6,10 @@
 		"mac": "2.206",
 		"ios": "2.206"
 	},
-	"id": "user95401.gemetry_trash",
-	"name": "Gemetry Trash v2.11 [ABANDONED]",
-	"version": "v11011198111100121.11410197108108121.9997114101115",
-	"developer": "user95401",
+	"id": "asterisk2024.abncgr",
+	"name": "ABNCG Reimagined",
+	"version": "v0.1.0",
+	"developer": "ASTerisk",
 	"description": "",
 	"early-load": true,
 	"resources": {
