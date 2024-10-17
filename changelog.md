@@ -1,3 +1,5 @@
+# 0.1.4
+New sprite and ACTUAL dependencies
 # 0.1.3
 New sprites and dependencies (Last update before i take a break)
 # 0.1.2

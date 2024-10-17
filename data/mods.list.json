@@ -1,5 +1,5 @@
 {
-  "version": "v0.1.3 New sprites and dependencies",
+  "version": "v0.1.4 New sprites and ACTUAL dependencies",
   "list": [
 
     "https://github.com/MathieuAR-GDPSFH/Gauntlets-Position-Fix/releases/latest/download/jecket.gauntlets_position_fix.geode",
@@ -12,6 +12,7 @@
     "https://github.com/Weebifying/restartbutton-geode/releases/latest/download/weebify.restartbtn.geode",
     "https://github.com/Capeling/Hide-Main-Menu-UI/releases/latest/download/capeling.hide_main_menu_ui.geode",
     "https://github.com/cgytrus/SmoothParticles/releases/latest/download/cgytrus.smooth-particles.geode",
+    "https://github.com/EclipseMenu/EclipseMenu/releases/download/v1.0.0-beta.3/eclipse.eclipse-menu.geode",
 
     "https://api.geode-sdk.org/v1/mods/hiimjustin000.more_icons/versions/latest/download",
     "https://github.com/elidianesampaiotrabuco/ABNCGReimagined/releases/latest/download/asterisk2024.abncgr.geode",
