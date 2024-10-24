@@ -1,1 +1,4 @@
-mod is still in dev
+This is how ASTerisk makes a GD mod.
+
+# The reimagining of ABNCG
+It's (almost) no longer a texture pack, instead it's just a fork of GTPS.

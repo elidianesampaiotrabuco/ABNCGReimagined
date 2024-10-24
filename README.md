@@ -9,5 +9,6 @@ MrDrNose: Creator of Advanced Education with Viktor Strobovski and Doggos (Doggo
 Cuzsie and Ronezkj15: Raldi's Crackhouse ("69" number reference) <br/>
 Microsoft: Windows 10 (Profile button) <br/>
 Alejandro Paul: Newbery Sans font (Used for the Featured label)
+Baggy Cat Ltd: At Dead of Night (Hugo Punch’s Stage Performance Theme used as the song for the loading screen, which will be in 0.1.6) (The audio file is downloaded from a video on YouTube (https://www.youtube.com/watch?v=ztwptTT-ozM) via 4K Video Downloader Plus.)
 <br/><br/>
-0.1.52 will be the bugfixes (if there are any)
+0.1.52 will be a demo of 0.1.6 (not the bugfixes cuz i'm too lazy)
