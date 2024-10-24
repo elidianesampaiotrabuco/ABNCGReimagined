@@ -77,7 +77,7 @@ public:
 
 		//msg
 		auto text = MDTextArea::create(
-			"### Here was set a server hosted specially for Gemetry Trash!"
+			"### Here was set a server hosted specially for ABNCG: Reimagined!"
 			"\n"
 			"Hostname: `" + globed_server + "`"
 			"\n""\n"

@@ -281,12 +281,12 @@ class $modify(MenuLayerExt, MenuLayer) {
                 title, [this](auto) {
                     MDPopup* mdpop = nullptr;
                     mdpop = MDPopup::create(
-                        "Gemetry Trash", //reinterpret_cast<LoadingLayer*>(CCNode::create())->getLoadingString(),
-                        "The project by a mod maker. The server is anarchic - easy mod, easy rate.""\n"
+                        "ABNCG: Reimagined", //reinterpret_cast<LoadingLayer*>(CCNode::create())->getLoadingString(),
+                        "The reimagining of ABNCG""\n"
                         "\n"
-                        "Probably the first GDPS, that is almost entirely a geode mod, which includes both textures and modifications. Modifications are also completely random - maybe something cool, or maybe some shit.""\n"
+                        "It has a lot of cool stuff.""\n"
                         "\n"
-                        "The things:"   "\n"
+                        "Things that the OG GTPS has:"   "\n"
                         "- easy rate"   "\n"
                         "- easy mod"    "\n"
                         "- random explode sound, menu music"    "\n"

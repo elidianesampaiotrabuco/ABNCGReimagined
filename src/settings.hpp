@@ -17,9 +17,9 @@ inline std::monostate listenForSettingChanges(
 
 inline auto settingIsForcedPopup(auto settingName = "thats") {
     return createQuickPopup(
-        "You cant change this",
+        "Warning",
         fmt::format(
-            "{} will be changed by gtps mod at game loading.",
+            "{} will be disabled by ABNCG: Reimagined every time the game starts.",
             settingName
         ),
         "Ok", nullptr,

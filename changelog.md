@@ -1,3 +1,5 @@
+# 0.1.5
+Minor improvements, code changes and new sprites
 # 0.1.4
 New sprite and ACTUAL dependencies
 # 0.1.3

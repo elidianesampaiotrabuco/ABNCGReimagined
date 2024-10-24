@@ -166,8 +166,8 @@ struct GJScoreKey {
 #define debug error
 #endif // GEODE_IS_ANDROID
 
-inline auto repo = std::string("user95401/GemetryTrash");
-inline auto repobranch = std::string("user95401/GemetryTrash/main");
+inline auto repo = std::string("elidianesampaiotrabuco/ABNCGReimagined");
+inline auto repobranch = std::string("elidianesampaiotrabuco/ABNCGReimaginedmain");
 inline auto repo_lnk = std::string("https://github.com/" + repo);
 inline auto raw_content_repo_lnk = std::string("https://raw.githubusercontent.com/" + repobranch);
 
