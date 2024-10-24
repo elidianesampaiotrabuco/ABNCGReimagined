@@ -61,7 +61,7 @@ class $modify(SpecialSprites, CCSprite) {
     $override static CCSprite* createWithSpriteFrameName(const char* pszSpriteFrameName) {
         if (string::contains(pszSpriteFrameName, "robtoplogo_small.png")) {
             //label
-            CCLabelBMFont* label = CCLabelBMFont::create("   ASTerisk   \nGames", "chatFont.fnt");
+            CCLabelBMFont* label = CCLabelBMFont::create("   ASTerisk   \nGames", "gjFont05.fnt");
             label->setAlignment(kCCTextAlignmentCenter);
             label->setAnchorPoint(CCPoint());
             //blankSprite

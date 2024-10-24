@@ -41,10 +41,10 @@ class $modify(CCSceneDialogs, CCScene) {
         if (auto game = GameManager::get()->m_gameLayer) if (game->isRunning()) return;
         if (auto gameplay = GameManager::get()->m_playLayer) if (gameplay->isRunning() or gameplay->m_isPaused) return;
         auto dailogs = std::vector<CCArray*>();
-        //dont do stupid
+        //hi im spongebob
         {
             CCArray* arr = CCArray::create();
-            arr->addObject(DialogObject::create("Scratch", "don't do stupid", 26, 1.f, 0, ccWHITE));
+            arr->addObject(DialogObject::create("You", "Hi, I'm SpongeBob!", 60, 1.f, 0, ccWHITE));
             dailogs.push_back(arr);
         }
         //nevermind
