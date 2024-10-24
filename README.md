@@ -9,5 +9,5 @@ MrDrNose: Creator of Advanced Education with Viktor Strobovski and Doggos (Doggo
 Cuzsie and Ronezkj15: Raldi's Crackhouse ("69" number reference) <br/>
 Microsoft: Windows 10 (Profile button) <br/>
 Alejandro Paul: Newbery Sans font (Used for the Featured label)
-<br/>
-0.1.51 will be for playtesting, and 0.1.52 will be the bugfixes (if there are any)
+<br/><br/>
+0.1.52 will be the bugfixes (if there are any)
