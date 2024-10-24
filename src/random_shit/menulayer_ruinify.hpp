@@ -229,6 +229,8 @@ class $modify(MenuLayerExt, MenuLayer) {
             node->setVisible(0);
         if (auto node = this->getChildByIDRecursive("twitch-button"))
             node->setVisible(0);
+        if (auto node = this->getChildByIDRecursive("discord-button"))
+            node->setVisible(0);
         if (auto node = this->getChildByIDRecursive("more-games-button")) {
             node->setContentSize(CCPointZero);
             node->setVisible(0);
