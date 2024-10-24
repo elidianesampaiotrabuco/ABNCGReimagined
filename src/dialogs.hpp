@@ -105,10 +105,10 @@ class $modify(CCSceneDialogs, CCScene) {
             arr->addObject(DialogObject::create("Scratch", "ok", 13, 1.f, 0, ccWHITE));
             dailogs.push_back(arr);
         }
-        //Who did the bite of 87
+        //me saying im a dev
         {
             CCArray* arr = CCArray::create();
-            arr->addObject(DialogObject::create("Scratch", "Who did the bite of 87?", 13, 1.f, 0, ccWHITE));
+            arr->addObject(DialogObject::create("You", "I am literally a mod developer.", 60, 1.f, 0, ccWHITE));
             dailogs.push_back(arr);
         }
         auto dailog = *select_randomly(dailogs.begin(), dailogs.end());
