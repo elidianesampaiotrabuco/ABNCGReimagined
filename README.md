@@ -1,4 +1,4 @@
-<!-- placeholder comment, mostly to fix android32 build problems)
+<!-- placeholder comment, mostly to fix android32 build problems) -->
 
 # ABNCG Reimagined
 
