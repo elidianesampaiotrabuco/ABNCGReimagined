@@ -9,8 +9,8 @@ public:
 		this->CCLayer::init();
 
 		auto msg = MDTextArea::create(
-			"# 0.2 exclusive"
-			"\n""This feature is exclusive to version 0.2, which will release once GD 2.21 releases.",
+			"# Coming soon!"
+			"\n""This feature will be available in version 1.0.",
 			this->getContentSize() - (CCSize(1, 0.5) * 280)
 		);
 		addChildAtPosition(msg, Anchor::Center);

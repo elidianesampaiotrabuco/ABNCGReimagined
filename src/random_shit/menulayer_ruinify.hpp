@@ -250,7 +250,7 @@ class $modify(MenuLayerExt, MenuLayer) {
                 [](auto) {
                     auto total_kills = GameStatsManager::sharedState()->getStat("9");
                     auto level = GJGameLevel::create();
-                    level->m_levelName = "Kills Count";
+                    level->m_levelName = "Deaths Count";
                     level->m_levelID = 1107;
                     level->m_levelLength = 5;
                     level->m_levelType = GJLevelType::Saved;

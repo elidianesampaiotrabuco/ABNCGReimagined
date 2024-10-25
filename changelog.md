@@ -1,3 +1,5 @@
+# 0.1.6
+Added lots of new features.
 # 0.1.53
 Added some 0.1.6 stuff
 # 0.1.52

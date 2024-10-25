@@ -1,6 +1,4 @@
-<!-- placeholder comment, mostly to fix android32 build problems) -->
-
-# ABNCG Reimagined
+# ABNCG: Reimagined
 
 ### Credits:
 Micah McGonigal: Baldi's Basics Plus (ItemPickup.wav as button click sound, You Thought Points symbol replacing the GD points, old Speedy Challenge map replacing the GTA SA map (Which came from the Baldi's Basics Wiki)), Baldi's Basics Classic Remastered ("REMASTERED" text reference) and Baldi's Basics Classic (Most of the assets) <br/>
@@ -14,4 +12,3 @@ Alejandro Paul: Newbery Sans font (Used for the Featured label) <br/>
 Baggy Cat Ltd: At Dead of Night (Hugo Punch’s Stage Performance Theme used as the song for the loading screen, which will be in 0.1.6) (The audio file is downloaded from a video on YouTube (https://www.youtube.com/watch?v=ztwptTT-ozM) via 4K Video Downloader Plus.) <br/>
 Nickelodeon: SpongeBob SquarePants ("Hi, I'm SpongeBob!" quote)
 <br/><br/>
-0.1.52 will be a demo of 0.1.6 (not the bugfixes cuz i'm too lazy)
