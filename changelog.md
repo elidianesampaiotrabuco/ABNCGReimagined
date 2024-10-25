@@ -1,3 +1,5 @@
+# 0.1.61
+Changed some sprites
 # 0.1.6
 Added lots of new features.
 # 0.1.53
