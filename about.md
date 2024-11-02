@@ -1,3 +1,5 @@
+0.1.7 will be a BIG update.
+
 This is how ASTerisk makes a GD mod.
 
 # The reimagining of ABNCG
