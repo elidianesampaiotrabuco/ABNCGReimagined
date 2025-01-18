@@ -1,3 +1,3 @@
-# (CANCELLED) ABNCG: Reimagined
+# (SUCCESSOR SOON) ABNCG: Reimagined
 
-This project has been cancelled, and will no longer receive updates.
+In March, ABNCG: Reimagined will get its successor, called ABNCG: Reworked.
